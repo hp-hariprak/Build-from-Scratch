@@ -84,6 +84,3 @@ It is about:
 - Thinking like an engineer, not just a framework user
 
 ---
-
-## 🧱 Repository Structure
-
