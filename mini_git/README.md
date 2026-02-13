@@ -12,9 +12,8 @@ It is useful for testing workflows, automating small tasks, and learning Git in 
 ## How to Use
 
 1. Clone this repository.
-2. Read the requirements file.
-3. Set up the needed tools.
-4. Run or modify the scripts based on your needs.
+2. Set up the needed tools.
+3. Run or modify the scripts based on your needs.
 
 ## Notes
 
